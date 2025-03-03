@@ -1,2 +1,12 @@
 feature_names = ["age", "sex", "bmi", "bp", "s1", "s2", "s3", "s4", "s5", "s6"]
 https://github.com/scikit-learn/scikit-learn/blob/98ed9dc73/sklearn/datasets/_base.py#L1043
+age age in years
+sex
+bmi body mass index
+bp average blood pressure
+s1 tc, total serum cholesterol
+s2 ldl, low-density lipoproteins
+s3 hdl, high-density lipoproteins
+s4 tch, total cholesterol / HDL
+s5 ltg, possibly log of serum triglycerides level
+s6 glu, blood sugar level
